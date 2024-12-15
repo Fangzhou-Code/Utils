@@ -69,5 +69,4 @@ jobs:
         with:
           packages-dir: dist/
         env:
-          PYPI_USERNAME: ${{ secrets.PYPI_USERNAME }}
-          PYPI_PASSWORD: ${{ secrets.PYPI_PASSWORD }}
+          PYPI_API_TOKEN: ${{ secrets.PYPI_API_TOKEN }}
