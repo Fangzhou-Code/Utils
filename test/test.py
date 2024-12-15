@@ -1,4 +1,4 @@
-from utils_rag import EnhancedLocalEmbeddings
+from utils_rag.EnhancedLocalEmbeddings import EnhancedLocalEmbeddings
 
 local_embeddings = EnhancedLocalEmbeddings(model_path="../../acge_text_embedding")
 
