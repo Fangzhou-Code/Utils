@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="Utils-RAG",  # 替换为项目名称
-    version="0.1.0",  # 项目版本
+    version="1.0.0",  # 项目版本
     description="Here is an enhanced version of the LocalEmbeddings class that provides similar functionality to the OpenAI embedding model and includes more features and detailed comments in English and Chinese",
     long_description=open("README.md", "r", encoding="utf-8").read(),
     long_description_content_type="text/markdown",
