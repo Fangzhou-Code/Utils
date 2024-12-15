@@ -29,7 +29,7 @@ embedding = local_embeddings.embed_text("The quick brown fox jumps over the lazy
 print("单文本嵌入结果 | Single text embedding:", embedding[:10])  # 打印前 10 个维度
 ```
 
-* **嵌入多个文本 | Embedding Multiple Texts**
+* **Embedding Multiple Texts | 嵌入多个文本**
 
 ```python
 texts = ["Text 1", "Text 2"]

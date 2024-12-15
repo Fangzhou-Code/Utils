@@ -2,7 +2,7 @@ from transformers import AutoModel, AutoTokenizer
 from langchain_core.embeddings import Embeddings
 from langchain_core.pydantic_v1 import BaseModel, Field
 import torch
-from typing import Any, List, Optional, Union
+from typing import Any, List, Optional
 from sentence_transformers import SentenceTransformer
 
 class EnhancedLocalEmbeddings(BaseModel, Embeddings):
