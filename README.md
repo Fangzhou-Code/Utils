@@ -2,7 +2,9 @@
 
 Mimic langchain to customize some tools for working with local models
 
-## [EnhancedLocalEmbeddings.py](./EnhancedLocalEmbeddings.py)
+## [Utils-RAG](./Utils-RAG/)
+
+### [EnhancedLocalEmbeddings.py](./Utils-RAG/EnhancedLocalEmbeddings.py)
 
 Here is an enhanced version of the LocalEmbeddings class that provides similar functionality to the OpenAI embedding model and includes more features and detailed comments in English and Chinese: | 以下是增强版的 LocalEmbeddings 类，它提供了与 OpenAI 嵌入模型类似的功能，并且包括更多特性和详细的中英文注释：
 

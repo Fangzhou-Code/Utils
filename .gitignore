@@ -1,0 +1,14 @@
+# Python 文件
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# 构建文件
+build/
+dist/
+*.egg-info/
+
+# 虚拟环境
+venv/
+.env
