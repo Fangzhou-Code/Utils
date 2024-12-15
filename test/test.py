@@ -1,1 +1,1 @@
-from Utils_RAG.EnhancedLocalEmbeddings import EnhancedLocalEmbeddings
+from utils_rag import EnhancedLocalEmbeddings
